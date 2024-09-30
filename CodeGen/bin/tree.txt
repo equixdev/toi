@@ -1,0 +1,28 @@
+E
+ E
+  B 
+   (
+   B
+    B
+     B
+      E
+       VAR1
+      =
+      E 
+       VAR2
+     and
+    B
+     E
+      VAR3
+     =
+     E
+      0x1
+     )
+   if
+   E
+    then
+     VAR4
+    else
+    E
+     VAR5
+;

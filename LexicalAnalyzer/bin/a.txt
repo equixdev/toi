@@ -1,0 +1,5 @@
+\ Start program \
+
+(VAR1 = VAR2 and VAR3 = 0x1 or not if (VAR2 > VAR3)) then VAR4 = 0x0 * VAR1 else VAR5 = 0x1 / VAR2; 
+
+\ End program \
